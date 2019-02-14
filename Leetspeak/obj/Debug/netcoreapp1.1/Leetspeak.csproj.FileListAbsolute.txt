@@ -1,0 +1,7 @@
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Leetspeak.Solution\Leetspeak\bin\Debug\netcoreapp1.1\Leetspeak.deps.json
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Leetspeak.Solution\Leetspeak\bin\Debug\netcoreapp1.1\Leetspeak.dll
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Leetspeak.Solution\Leetspeak\bin\Debug\netcoreapp1.1\Leetspeak.pdb
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Leetspeak.Solution\Leetspeak\obj\Debug\netcoreapp1.1\Leetspeak.csproj.CoreCompileInputs.cache
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Leetspeak.Solution\Leetspeak\obj\Debug\netcoreapp1.1\Leetspeak.AssemblyInfo.cs
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Leetspeak.Solution\Leetspeak\obj\Debug\netcoreapp1.1\Leetspeak.dll
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Leetspeak.Solution\Leetspeak\obj\Debug\netcoreapp1.1\Leetspeak.pdb

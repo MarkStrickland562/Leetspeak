@@ -1,0 +1,14 @@
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Leetspeak.Solution\Leetspeak.Tests\bin\Debug\netcoreapp1.1\LeetspeakTests.deps.json
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Leetspeak.Solution\Leetspeak.Tests\bin\Debug\netcoreapp1.1\LeetspeakTests.runtimeconfig.json
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Leetspeak.Solution\Leetspeak.Tests\bin\Debug\netcoreapp1.1\LeetspeakTests.runtimeconfig.dev.json
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Leetspeak.Solution\Leetspeak.Tests\obj\Debug\netcoreapp1.1\LeetspeakTests.csproj.CoreCompileInputs.cache
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Leetspeak.Solution\Leetspeak.Tests\obj\Debug\netcoreapp1.1\LeetspeakTests.AssemblyInfo.cs
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Leetspeak.Solution\Leetspeak.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Leetspeak.Solution\Leetspeak.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Leetspeak.Solution\Leetspeak.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Leetspeak.Solution\Leetspeak.Tests\bin\Debug\netcoreapp1.1\LeetspeakTests.dll
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Leetspeak.Solution\Leetspeak.Tests\bin\Debug\netcoreapp1.1\LeetspeakTests.pdb
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Leetspeak.Solution\Leetspeak.Tests\bin\Debug\netcoreapp1.1\Leetspeak.dll
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Leetspeak.Solution\Leetspeak.Tests\bin\Debug\netcoreapp1.1\Leetspeak.pdb
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Leetspeak.Solution\Leetspeak.Tests\obj\Debug\netcoreapp1.1\LeetspeakTests.dll
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Leetspeak.Solution\Leetspeak.Tests\obj\Debug\netcoreapp1.1\LeetspeakTests.pdb

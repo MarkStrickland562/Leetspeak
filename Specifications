@@ -1,0 +1,6 @@
+1) User inputs a string.
+2) "e" will be replaced by "3".
+3) "o" will be replaced by "0".
+4) Capitol "I", not "i" will be replaced by "1".
+5) "t" will be replaced by "7".
+6) "s" will be replaced by "z", unless it is the first letter of a word.
